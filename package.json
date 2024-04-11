@@ -1,0 +1,22 @@
+{
+  "name": "crm-storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fredchien/crm-storybook.git",
+  "author": "Frederic Chien <fred_chien@yahoo.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.12.7",
+    "typescript": "5.4.5"
+  }
+}
